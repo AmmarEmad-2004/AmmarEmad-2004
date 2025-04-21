@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ammar Emad</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-- 🌱 I’m currently learning **flutter** and focusing on building scalable mobile apps.
-- 🎯 My goal is to build innovative, scalable mobile applications while continuously improving my technical skills, particularly in Flutter, Firebase, and backend technologies.
-
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/178951436?v=4" alt="My profile picture" width="150" height="150" align="left" style="margin-right: 20px;" />
+  - 🌱 I’m currently learning **flutter** and focusing on building scalable mobile apps.
+  - 🎯 My goal is to build innovative, scalable mobile applications while continuously improving my technical skills, particularly in Flutter, Firebase, and backend technologies.
+</p>
 
 - 📫 How to reach me **za0663008@gmail.com**
 
