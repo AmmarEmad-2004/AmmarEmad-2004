@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cool-gojo-jujutsu-kaisen-anime-desktop-wallpaper-preview.jpg" width="80%" height="260px"/>
+  <img src="./cool-gojo-jujutsu-kaisen-anime-desktop-wallpaper-preview.jpg" width="95%" height="280px"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Emad" alt="Typing SVG" />
