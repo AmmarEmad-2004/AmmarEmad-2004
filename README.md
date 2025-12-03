@@ -26,18 +26,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammaremad-2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaremad-2004&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammaremad-2004&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ammaremad-2004&label=P
