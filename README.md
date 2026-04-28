@@ -1,71 +1,124 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/639c0a02-255e-47c7-a102-819323093ae8" width="100%" height="500"/>
+  <img src="https://github.com/user-attachments/assets/639c0a02-255e-47c7-a102-819323093ae8" width="100%" height="480"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ammar+Emad;Flutter+Developer+🚀;Building+Smart+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ammar+Emad;Flutter+Developer+🚀;Building+Smart+Apps;Clean+Code+Lover" />
 </h1>
 
-<!-- <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Emad" alt="Typing SVG" /> </h1>  -->
-<h3 align="center">🚀 A passionate Flutter Developer from Dammietta, Egypt</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Flutter+Developer;Mobile+App+Enthusiast;Lifelong+Learner;Let's+build+awesome+apps!" /> </p>
+<h3 align="center">🚀 A passionate Flutter Developer from Dammietta, Egypt</h3>
 
-<h3 align="center">💡 Turning ideas into real apps using Flutter & Firebase</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Flutter+Developer;Mobile+App+Enthusiast;Problem+Solver;Let's+build+awesome+apps!" />
+</p>
+
+<h3 align="center">💡 Turning ideas into real production apps using Flutter & Firebase</h3>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science Student (IS)
-- 📱 Flutter Developer
-- 🧩 Problem Solver (ICPC Journey 🚀)
-- 🔥 Building **SkillBridge** (AI Learning Platform)
+- 🎓 Computer Science Student (IS)  
+- 📱 Flutter Developer  
+- 🧩 Problem Solver (ICPC Journey 🚀)  
+- 🔥 Building **DuoCode** (AI Learning Platform)  
 - 🎯 Goal: Become a **Top Software Engineer**
 
 ---
 
 ## ⚡ What I'm Doing Now
-- 🔨 Building real-world Flutter apps
-- 🔥 Learning advanced state management (Cubit + MVVM)
-- 🌐 Working with APIs & Firebase
-- 💡 Improving problem-solving skills
+- 🔨 Building real-world Flutter apps  
+- 🧠 Improving Architecture (MVVM + Clean Architecture)  
+- ⚙️ Working with Cubit & State Management  
+- 🌐 APIs + Firebase + Supabase integration  
+- 💡 Leveling up Problem Solving  
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 My Course
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,cpp,java,html,css,mysql,postman,figma" />
+<table>
+<tr>
+
+<td width="30%" align="center">
+
+<a href="https://youtube.com/playlist?list=PL4pTN1xPO3xbQA6YcUTKic_jvAmHn2CE7">
+  <img 
+    src="https://i.ytimg.com/pl_c/PL4pTN1xPO3xbQA6YcUTKic_jvAmHn2CE7/studio_square_thumbnail.jpg?sqp=CNCqwc8G-oaymwEICKoDEPABSFqi85f_AwYIscODzQY=&rs=AOn4CLBF4Ajz7rwOoH5ZGQG8gtktXsaqUg"
+    width="1000"
+    style="border-radius:16px; border:2px solid #58A6FF;"
+  />
+</a>
+
+</td>
+
+<td width="70%" align="left">
+
+### 💻 Master Git & GitHub Course  
+🚀 Version Control from Zero to Hero  
+📂 Git workflow, branching & collaboration  
+🔥 Real-world projects & teamwork  
+
+<br/>
+
+<a href="https://youtube.com/playlist?list=PL4pTN1xPO3xbQA6YcUTKic_jvAmHn2CE7">
+  <img src="https://img.shields.io/badge/▶ Watch%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 </p>
 
 ---
 
 ## 📊 GitHub Stats (Live 🔥)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammaremad-2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammaremad-2004&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ammaremad-2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammaremad-2004&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
 </p>
-
 
 ---
 
-## 🧠 Most Used Languages
+## 🏆 Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaremad-2004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ammaremad-2004&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammaremad-2004&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🌍 Connect With Me
-<p align="center">
-  <a href="mailto:za0663008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ammar-emad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
----
-
-## 🐍 Contribution Snake 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <a href="mailto:za0663008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/ammar-emad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
