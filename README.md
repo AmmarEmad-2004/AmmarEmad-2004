@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ammar+Emad;Flutter+Developer+🚀;Building+Smart+Apps;Clean+Code+Lover" />
 </h1>
 
-<h3 align="center">🚀 A passionate Flutter Developer from Dammietta, Egypt</h3>
+<h3 align="center"> A passionate Flutter Developer from Dammietta, Egypt</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Flutter+Developer;Mobile+App+Enthusiast;Problem+Solver;Let's+build+awesome+apps!" />
 </p>
 
-<h3 align="center">💡 Turning ideas into real production apps using Flutter & Firebase</h3>
+<h3 align="center"> Turning ideas into real production apps using Flutter & Firebase</h3>
 
 ---
 
