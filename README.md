@@ -44,7 +44,7 @@
 
 <a href="https://youtube.com/playlist?list=PL4pTN1xPO3xbQA6YcUTKic_jvAmHn2CE7">
   <img 
-    src="https://i.ytimg.com/pl_c/PL4pTN1xPO3xbQA6YcUTKic_jvAmHn2CE7/studio_square_thumbnail.jpg?sqp=CNCqwc8G-oaymwEICKoDEPABSFqi85f_AwYIscODzQY=&rs=AOn4CLBF4Ajz7rwOoH5ZGQG8gtktXsaqUg"
+    src="https://github.com/user-attachments/assets/b3e26a21-aba4-42e6-93bd-0b32bb2161db"
     width="1000"
     style="border-radius:16px; border:2px solid #58A6FF;"
   />
