@@ -20,7 +20,7 @@
 - 🎓 Computer Science Student (IS)  
 - 📱 Flutter Developer  
 - 🧩 Problem Solver (ICPC Journey 🚀)  
-- 🔥 Building **DuoCode** (AI Learning Platform)  
+- 🔥 Building **DuoCode** (Gamified Learning Platform)  
 - 🎯 Goal: Become a **Top Software Engineer**
 
 ---
